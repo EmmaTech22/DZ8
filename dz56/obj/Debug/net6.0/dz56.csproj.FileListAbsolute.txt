@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Рабочий стол\DZ8\dz56\bin\Debug\net6.0\dz56.exe
+C:\Users\LENOVO\OneDrive\Рабочий стол\DZ8\dz56\bin\Debug\net6.0\dz56.deps.json
+C:\Users\LENOVO\OneDrive\Рабочий стол\DZ8\dz56\bin\Debug\net6.0\dz56.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Рабочий стол\DZ8\dz56\bin\Debug\net6.0\dz56.dll
+C:\Users\LENOVO\OneDrive\Рабочий стол\DZ8\dz56\bin\Debug\net6.0\dz56.pdb
+C:\Users\LENOVO\OneDrive\Рабочий стол\DZ8\dz56\obj\Debug\net6.0\dz56.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Рабочий стол\DZ8\dz56\obj\Debug\net6.0\dz56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Рабочий стол\DZ8\dz56\obj\Debug\net6.0\dz56.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Рабочий стол\DZ8\dz56\obj\Debug\net6.0\dz56.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Рабочий стол\DZ8\dz56\obj\Debug\net6.0\dz56.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Рабочий стол\DZ8\dz56\obj\Debug\net6.0\dz56.dll
+C:\Users\LENOVO\OneDrive\Рабочий стол\DZ8\dz56\obj\Debug\net6.0\refint\dz56.dll
+C:\Users\LENOVO\OneDrive\Рабочий стол\DZ8\dz56\obj\Debug\net6.0\dz56.pdb
+C:\Users\LENOVO\OneDrive\Рабочий стол\DZ8\dz56\obj\Debug\net6.0\dz56.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Рабочий стол\DZ8\dz56\obj\Debug\net6.0\ref\dz56.dll
